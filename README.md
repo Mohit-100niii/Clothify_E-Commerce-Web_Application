@@ -6,7 +6,7 @@ Integrated Stripe payment processing for secure and smooth transactions.
 Fully Responsive React.JS front-end for seamless user experience.
 
 
-#### View Demo: https://clothify-ecommerce-shopping-aa760f.netlify.app/
+#### View Demo: https://e-comm-clothifyshop-4192.netlify.app/
 
 ### ScreenShots
 
